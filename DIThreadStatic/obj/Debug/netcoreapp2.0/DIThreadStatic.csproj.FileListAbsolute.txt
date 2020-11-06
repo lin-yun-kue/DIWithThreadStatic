@@ -1,0 +1,11 @@
+C:\Users\Kyle\source\repos\DIThreadStatic\DIThreadStatic\bin\Debug\netcoreapp2.0\DIThreadStatic.deps.json
+C:\Users\Kyle\source\repos\DIThreadStatic\DIThreadStatic\bin\Debug\netcoreapp2.0\DIThreadStatic.runtimeconfig.json
+C:\Users\Kyle\source\repos\DIThreadStatic\DIThreadStatic\bin\Debug\netcoreapp2.0\DIThreadStatic.runtimeconfig.dev.json
+C:\Users\Kyle\source\repos\DIThreadStatic\DIThreadStatic\bin\Debug\netcoreapp2.0\DIThreadStatic.dll
+C:\Users\Kyle\source\repos\DIThreadStatic\DIThreadStatic\bin\Debug\netcoreapp2.0\DIThreadStatic.pdb
+C:\Users\Kyle\source\repos\DIThreadStatic\DIThreadStatic\obj\Debug\netcoreapp2.0\DIThreadStatic.csprojAssemblyReference.cache
+C:\Users\Kyle\source\repos\DIThreadStatic\DIThreadStatic\obj\Debug\netcoreapp2.0\DIThreadStatic.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\source\repos\DIThreadStatic\DIThreadStatic\obj\Debug\netcoreapp2.0\DIThreadStatic.AssemblyInfoInputs.cache
+C:\Users\Kyle\source\repos\DIThreadStatic\DIThreadStatic\obj\Debug\netcoreapp2.0\DIThreadStatic.AssemblyInfo.cs
+C:\Users\Kyle\source\repos\DIThreadStatic\DIThreadStatic\obj\Debug\netcoreapp2.0\DIThreadStatic.dll
+C:\Users\Kyle\source\repos\DIThreadStatic\DIThreadStatic\obj\Debug\netcoreapp2.0\DIThreadStatic.pdb
